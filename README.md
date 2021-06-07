@@ -7,7 +7,8 @@
 # Getting correct length of test data
 ![image](https://user-images.githubusercontent.com/68476475/120987959-bd9d6800-c79b-11eb-8eaf-95a06ed8429f.png)
 # Padding Sequences
-![image](https://user-images.githubusercontent.com/68476475/120989749-7e701680-c79d-11eb-92fe-68cea7d3b95b.png)
+![image](https://user-images.githubusercontent.com/68476475/120989843-98115e00-c79d-11eb-8b5d-0d75ebd399ee.png)
+
 
 
 
