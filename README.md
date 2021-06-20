@@ -24,8 +24,7 @@
  **For eg:-Sentiment Classification**
  
  **4) Many-to-Many:-**
- >![5cb68cab-1f6e-4e41-aba1-7ca9dec73cf4](https://user-images.githubusercontent.com/68476475/122670709-fcdaa880-d1e0-11eb-9d01-fcecb9724aed.jpg)
-
+ >![5cb68cab-1f6e-4e41-aba1-7ca9dec7](https://user-images.githubusercontent.com/68476475/122670736-27c4fc80-d1e1-11eb-9df8-9f7aa09f3449.jpg)
 **For eg:- Machine Translation** 
 
  
