@@ -1,5 +1,5 @@
 
-# Sequencial Modeling Requires to:
+# SEQUENCIAL MODELING REQUIRES TO:- 
 
 1) Track long-term dependencies
 2) handle variable-length sequences
